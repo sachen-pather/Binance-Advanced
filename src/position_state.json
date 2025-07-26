@@ -1,0 +1,67 @@
+{
+  "timestamp": "2025-07-03T15:33:21.149130",
+  "positions": {},
+  "paper_positions": {},
+  "exit_performance": {
+    "take_profit": {
+      "count": 0,
+      "total_pnl": 0,
+      "avg_pnl": 0
+    },
+    "stop_loss": {
+      "count": 0,
+      "total_pnl": 0,
+      "avg_pnl": 0
+    },
+    "trailing_stop": {
+      "count": 0,
+      "total_pnl": 0,
+      "avg_pnl": 0
+    },
+    "time_based": {
+      "count": 0,
+      "total_pnl": 0,
+      "avg_pnl": 0
+    },
+    "regime_change": {
+      "count": 0,
+      "total_pnl": 0,
+      "avg_pnl": 0
+    },
+    "risk_management": {
+      "count": 0,
+      "total_pnl": 0,
+      "avg_pnl": 0
+    },
+    "correlation_limit": {
+      "count": 0,
+      "total_pnl": 0,
+      "avg_pnl": 0
+    },
+    "manual": {
+      "count": 0,
+      "total_pnl": 0,
+      "avg_pnl": 0
+    },
+    "rebalancing": {
+      "count": 0,
+      "total_pnl": 0,
+      "avg_pnl": 0
+    },
+    "technical_exit": {
+      "count": 0,
+      "total_pnl": 0,
+      "avg_pnl": 0
+    },
+    "momentum_loss": {
+      "count": 0,
+      "total_pnl": 0,
+      "avg_pnl": 0
+    },
+    "profit_taking": {
+      "count": 0,
+      "total_pnl": 0,
+      "avg_pnl": 0
+    }
+  }
+}

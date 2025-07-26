@@ -1,0 +1,30 @@
+{
+  "timestamp": "2025-07-03T15:33:21.158420",
+  "current_equity": 10000,
+  "daily_pnl": 0.0,
+  "strategy_state": {
+    "last_analysis_time": null,
+    "last_ml_retrain": null,
+    "circuit_breaker_active": false,
+    "emergency_stop": false,
+    "performance_degradation": false
+  },
+  "execution_metrics": {
+    "opportunities_analyzed": 0,
+    "trades_executed": 0,
+    "analysis_time_avg": 0.0464760271066557,
+    "ml_predictions_made": 0,
+    "risk_checks_performed": 0
+  },
+  "config": {
+    "strategy_weights": {
+      "trend_following": 0.3,
+      "mean_reversion": 0.25,
+      "breakout": 0.2,
+      "momentum": 0.15,
+      "accumulation": 0.1
+    },
+    "min_opportunity_score": 0.65,
+    "paper_trade": true
+  }
+}

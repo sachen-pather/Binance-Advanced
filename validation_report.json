@@ -1,0 +1,21 @@
+{
+  "timestamp": "2025-06-25T23:01:07.106450",
+  "total_checks": 11,
+  "passed_checks": 11,
+  "failed_checks": 0,
+  "success_rate": 100.0,
+  "results": {
+    "python_version": true,
+    "directory_structure": true,
+    "core_dependencies": true,
+    "trading_dependencies": true,
+    "environment_file": true,
+    "api_keys": true,
+    "api_connection": true,
+    "enhanced_modules": true,
+    "file_permissions": true,
+    "database_connection": true,
+    "system_health": true
+  },
+  "failed_items": []
+}
